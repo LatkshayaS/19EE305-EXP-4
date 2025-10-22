@@ -43,9 +43,9 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 
 ## CIRCUIT DIAGRAMS:
 ### HALF WAVE RECTIFIER WITH FILTER:
-![](1.jpeg)
-### HALF WAVE RECTIFIER WITHOUT FILTER:
 ![](2.jpeg)
+### HALF WAVE RECTIFIER WITHOUT FILTER:
+![](1.jpeg)
 ### TABULAR COLUMN:
 ![](3.jpeg)
 ### WAVEFORM:
