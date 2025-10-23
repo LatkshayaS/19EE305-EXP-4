@@ -41,22 +41,36 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-## CIRCUIT DIAGRAMS:
-### HALF WAVE RECTIFIER WITH FILTER:
-![](2.jpeg)
-### HALF WAVE RECTIFIER WITHOUT FILTER:
-![](1.jpeg)
-### TABULAR COLUMN:
-![](3.jpeg)
-### WAVEFORM:
-![](4.jpeg)
-### FULL WAVE RECTIFIER WITH FILTER:
-![]()
-### FULL WAVE RECTIFIER WITHOUT FILTER:
-![]()
-### TABULAR COLUMN:
-![]()
-### WAVEFORM:
-![]()
+circuit diagram:
+
+half wave rectifier with filter:
+![half wave circuit](https://github.com/user-attachments/assets/29514cb3-a519-4761-a875-2d3a8d6459e3)
+
+full wave rectifier with filter:
+
+![full wave circuit](https://github.com/user-attachments/assets/acef3efb-b0dd-469c-a34c-37e846b942fd)
+
+tabulation:
+
+half wave rectifier with filter:
+
+![half wave tabulation](https://github.com/user-attachments/assets/d02e425e-bf90-45e8-916b-dfb89c497f0f)
+
+
+full wave rectifier with filter:
+
+![full wave tabulation](https://github.com/user-attachments/assets/f57f2b84-4332-4cac-9830-b2fd4c9a4010)
+
+
+waveform:
+
+half wave rectifier with filter:
+
+![half wave waveform](https://github.com/user-attachments/assets/e485545f-f0d7-48b7-8a0b-bb3dd88e5f10)
+
+full wave rectifier with filter:
+
+![waveform](https://github.com/user-attachments/assets/d49c4b77-6b9f-453a-920c-32b4583a7557)
+
 ## RESULT:
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
