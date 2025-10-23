@@ -73,4 +73,5 @@ full wave rectifier with filter:
 ![waveform](https://github.com/user-attachments/assets/d49c4b77-6b9f-453a-920c-32b4583a7557)
 
 ## RESULT:
+
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
